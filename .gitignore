@@ -1,0 +1,4 @@
+node_modules/
+.bkit/
+.claude/
+harness_output/

@@ -1,0 +1,17 @@
+{
+  "name": "_new_drcho_sermon_all",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create_docx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "analyze:thought": "node scripts/analyze_original_sermon_thoughts.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "docx": "^9.6.1"
+  }
+}
